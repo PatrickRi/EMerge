@@ -2,6 +2,7 @@
 /.mvn/
 mvnw
 mvnw.cmd
+*.txt
 
 ### STS ###
 .apt_generated
