@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: reservation-service
+  cloud:
+    config:
+      discovery:
+        enabled: true
+
+

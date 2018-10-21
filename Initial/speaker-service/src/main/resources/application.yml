@@ -1,0 +1,13 @@
+server:
+  port: 8222
+logging:
+  level:
+    org.springframework: DEBUG
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    health:
+      show-details: always
