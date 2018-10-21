@@ -1,6 +1,1 @@
 server.port: 8222
-logging.level.org.springframework: DEBUG
-spring.sleuth.sampler.probability: 1
-management:
-  endpoints.web.exposure.include: "*"
-  endpoint.health.show-details: always
