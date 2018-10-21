@@ -6,4 +6,5 @@ spring:
       server:
         git:
           clone-on-start: true
-          uri: C:\Users\Patrick\Documents\EMerge\config
+          uri: https://github.com/PatrickRi/EMerge
+          searchPaths: config
